@@ -1,4 +1,8 @@
 package problem_statement5;
+/**
+ * This program demonstrates For-loop working 
+ */
+
 
 public class ForLoop {
 	int i;

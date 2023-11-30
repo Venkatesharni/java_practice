@@ -1,4 +1,8 @@
 package peoblem_statement7;
+/**
+ * This program demonstrates Multiple Inheritence
+ */
+
 
 public class Inheritence {
 	 public void methodInheritence()

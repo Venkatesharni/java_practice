@@ -6,14 +6,14 @@ package problem_statement4;
 
 public class DoWhileLoop {
 	public static void main(String[] args) {
-		int x=0;//instalization of variable
+		int x=1;//instalization of variable
 		System.out.println("The numbers are.......");
 		
 		do {
-			
+			System.out.println(x);
 			
 			x++;// increment operation
-			System.out.println(x);
+			
 }
 			while(x<10);//condition
 		

@@ -1,4 +1,8 @@
 package problem_statement6;
+/**
+ * This program demonstrates of classes,objects and interface
+ */
+
 
 public class ClassObjectIn {
 	 ClassObjectIn(){}// constructor is created
